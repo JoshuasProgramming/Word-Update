@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Word-Update/static/css/main.04c5872f.css",
+    "main.js": "/Word-Update/static/js/main.1bfccf0b.js",
+    "static/media/mySvg.svg": "/Word-Update/static/media/mySvg.e89063b4ce54449a33122d665871e690.svg",
+    "index.html": "/Word-Update/index.html",
+    "main.04c5872f.css.map": "/Word-Update/static/css/main.04c5872f.css.map",
+    "main.1bfccf0b.js.map": "/Word-Update/static/js/main.1bfccf0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04c5872f.css",
+    "static/js/main.1bfccf0b.js"
+  ]
+}
